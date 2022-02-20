@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working as a Financial analyst @philipmorrisintl Center of Expertise in Belgrade, focusing on reporting and analysis for the EEMEA region.
 - 🌱 Expanding my skills on business inteligence automation with PowerBI
-- 😄 Pronouns: #businessinteligence #finance #powerbi #ACCA 
+- 😄 Pronouns: #businessinteligence #finance #powerbi #ACCA
+
+Reach out if you know someone that needs an enterprise dashboard in PowerBI.
 
 <p><a href="https://www.linkedin.com/in/dimovboris/">LinkedIn</a></p>
 
