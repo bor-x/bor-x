@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Financial analyst @philipmorrisintl Center of Expertise in Belgrade, focusing on reporting and analysis for the EEMEA region.
+- 🌱 Expanding my skills on business inteligence automation with PowerBI
+- 😄 Pronouns: #businessinteligence #finance #powerbi #ACCA 
+
+<p><a href="https://www.linkedin.com/in/dimovboris/">LinkedIn</a></p>
+
 <!--
 **bor-x/bor-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
